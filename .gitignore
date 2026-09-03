@@ -4,8 +4,12 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
+
+# Env (keep examples)
 .env
-.env.*
+.env.local
+.env.*.local
+!.env.example
 
 # Node
 node_modules/

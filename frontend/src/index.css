@@ -10,7 +10,11 @@ body {
 }
 
 #root {
-  max-width: 720px;
+  max-width: 880px;
   margin: 0 auto;
-  padding: 2rem 1.25rem 4rem;
+  padding: 1.25rem 1.25rem 4rem;
+}
+
+code {
+  font-size: 0.9em;
 }
