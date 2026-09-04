@@ -1,4 +1,5 @@
 # SuperSchedule
+* DISCLAIMER: This is all vibe-coded with GrokBot, none of this is my own work. *
 Student-schedule optimizer scaffold. Sign in with Google (via Supabase Auth), import Google Calendar, and save lifestyle preferences. The weekly optimizer is still a stub.
 
 ## Stack
